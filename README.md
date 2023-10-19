@@ -10,3 +10,7 @@ For our investigation into the impact of flooding on seagrass, we aimed at explo
 We have used the daily and monthly data from eReefs BioGeoChemical model extracted via the AIMS eReefs THREDDS portal.
 Link: https://thredds.ereefs.aims.gov.au/thredds
 
+## Objectives and Analyses
+- Objective 1 - Understanding the general relationship between environmental and seagrass variables
+- Objective 2 - Visualizing the temporal change in seagrass biomass before and after flooding event under baseline and pre-industrial scenarios
+- Objective 3 - Testing the impact of tropical cyclone Oswald on seagrass during flooding event under different anthropogenic impact with statistical test 
